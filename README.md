@@ -5,7 +5,8 @@
 <p>
 안녕하세요👋<br/>
 프론트엔드 개발자 조준영입니다!<br/>
-Github 방문을 환영합니다!<br/>
+Github 방문을 환영합니다!<br/><br/><br/>
+✉️ choj9603@gmail.com
 </p>
 
 

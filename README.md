@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CHOJ96&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=CHOJ96&fontSize=80)
 
 	
  
 
-🛠️ Stacks
+🛠️ Tech Stack 🛠️
 
 
 

@@ -6,7 +6,7 @@
 안녕하세요👋<br/>
 프론트엔드 개발자 조준영입니다!<br/>
 Github 방문을 환영합니다!<br/><br/><br/>
-✉️ choj9603@gmail.com<br/>
+✉️ choj9603@gmail.com<br/><br/>
 <a href="https://spangled-saturday-d56.notion.site/aab1d7aa5de04b7e85ffb648d758f443">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
